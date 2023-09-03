@@ -1,8 +1,8 @@
-# goit-markup-hw-05 - Tarea5
+# https://carlos7orteg.github.io/goit-markup-hw-05/
 
 - Items:
 
-* Cree el repositorio goit-markup-hw-05.
+* Crear el repositorio goit-markup-hw-05.
 * Clone el repositorio creado y copie los archivos de trabajo anteriores en él.
 * Agregue efectos decorativos animados a las páginas de diseño de la tarea de casa #5.
 * Configure las GitHub Pages y agregue un enlace a la página en vivo en el encabezado del
